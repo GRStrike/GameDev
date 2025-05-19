@@ -1,4 +1,4 @@
-Примеры работ модификаций для игры DayZ. Были созданы для личного сервера.
+Примеры работ модификаций для игры DayZ,TESO online. Были созданы для личного сервера.
 
 
 
@@ -7,4 +7,4 @@
 
 
 
-Examples of modification work for the DayZ game. They were created for a personal server.
+Examples of modification work for the DayZ,TESO online game. They were created for a personal server.
