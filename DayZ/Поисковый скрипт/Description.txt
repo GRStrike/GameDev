@@ -1,0 +1,12 @@
+Скрипт читает список файлов из файла 1.List.c
+Для каждой строки проверяется наличие файла с таким именем в каждой из исходных папок (P:\1.POISK\data\<категория>\).
+Если файл существует, он копируется в соответствующую подпапку в P:\1.POISK\REZ\data\.
+Был создан при разработке карты для игры DayZ, что бы проверить и ускорить поиск и сортировку файлов текстур для моделей
+
+
+===========================================================================================================================
+
+The script reads a list of files from file 1.List.c
+For each line, the presence of a file with that name is checked in each of the source folders (P:\1.POISK\data \<category>\).
+If the file exists, it is copied to the appropriate subfolder in P:\1.POISK\REZ\data \.
+It was created during the development of the map for the DayZ game to check and speed up the search and sorting of texture files for models.

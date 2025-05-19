@@ -1,0 +1,6 @@
+Основная разработка для игры DayZ: Левел дизайн, карто строение(кастомная карта размером 24х24. в данный момент в разработке), модели одежды, ассеты для маппинга. 
+Создание и сопровождение игрового сервера 
+
+==============================================================================================
+The main development for the DayZ game: Level design, cartographic structure (custom map size 24x24. currently under development), clothing models, assets for mapping.
+Creation and maintenance of a game server

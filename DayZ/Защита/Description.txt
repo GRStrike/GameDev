@@ -1,0 +1,5 @@
+Клиентская и серверная часть простой защиты модификаций. Вызывает рандомные действия в игре если не установлена серверная часть. К сожалению часть скрипта пришлось скрыть, но думаю кто понимает принцип сможет ее дописать и использовать.
+
+==============================================================================================
+
+The client and server side of the simple modification protection. Causes random actions in the game if the server side is not installed. Unfortunately, part of the script had to be hidden, but I think anyone who understands the principle will be able to add it and use it.
